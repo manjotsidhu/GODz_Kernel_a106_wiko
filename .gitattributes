@@ -1,0 +1,4 @@
+out/target/product/wiko/obj/KERNEL_OBJ/.tmp_vmlinux2 filter=lfs diff=lfs merge=lfs -text
+out/target/product/wiko/obj/KERNEL_OBJ/vmlinux filter=lfs diff=lfs merge=lfs -text
+out/target/product/wiko/obj/KERNEL_OBJ/vmlinux.o filter=lfs diff=lfs merge=lfs -text
+out/target/product/wiko/obj/KERNEL_OBJ/.tmp_vmlinux1 filter=lfs diff=lfs merge=lfs -text
