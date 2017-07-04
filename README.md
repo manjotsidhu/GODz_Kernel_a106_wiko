@@ -1,4 +1,4 @@
-Stock Kitkat Kernel Source For Wiko Bloom , Micromax Unite 2 and other clones
+Custom Kitkat Kernel Source For Wiko Bloom , Micromax Unite 2 and other clones
 ------
 Version :- 3.4.67 (kitkat)
 
