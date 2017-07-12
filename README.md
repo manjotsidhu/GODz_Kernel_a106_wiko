@@ -8,7 +8,7 @@ Bugs :- N/A
 
 Contributors
 ------
->GOD , U , Manjot Sidhu , Monty Kumar , Ranjan , Divyrajsinh Jadeja , Anurag D'Cruz , Varun Chitre , Ariafan and much more
+>GOD , U , Manjot Sidhu , Monty Kumar , Ranjan , Divyrajsinh Jadeja , Anurag D'Cruz , Preet Chauhan , Varun Chitre , Ariafan , SiddheshK15 and much more
 
 Introduction
 ------
