@@ -1,6 +1,6 @@
 Custom Kitkat Kernel Source For Wiko Bloom , Micromax Unite 2 and other clones
 ------
-Version :- 3.4.67 (kitkat)
+Version :- 3.4.113 (kitkat)
 
 Status :- Stable
 
@@ -8,7 +8,7 @@ Bugs :- N/A
 
 Contributors
 ------
->GOD , U , Manjot Sidhu , Monty Kumar(helping) , Ranjan(my all time mentor) , Divyrajsinh Jadeja(Testing) , Anurag D'Cruz(encouraged me) and each and every person of unite 2 who inspired me to do this ... Thank You Every Much 
+>GOD , U , Manjot Sidhu , Monty Kumar , Ranjan , Divyrajsinh Jadeja , Anurag D'Cruz , Varun Chitre , Ariafan and much more
 
 Introduction
 ------
