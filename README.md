@@ -1,4 +1,4 @@
-Custom Kitkat Kernel Source For Wiko Bloom , Micromax Unite 2 and other clones
+GODz Custom Kernel Source For Wiko Bloom , Micromax Unite 2 and other clones
 ------
 Version :- 3.4.113 (kitkat)
 

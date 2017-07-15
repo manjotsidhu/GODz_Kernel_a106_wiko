@@ -47,7 +47,7 @@ unsigned int mt_gpufreq_cur_load(void)
 
 unsigned int mt_gpufreq_cur_freq(void)
 {
-    return 500000; //500MHz
+    return 600000; //500MHz
 }
 
 static void wq_get_sample(struct work_struct *work)
